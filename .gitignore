@@ -18,3 +18,4 @@ logs/
 # Компилированные файлы Python
 *.pyc
 *.pyo
+.env
