@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.baistoreVENV/
+
+# Базы данных
+db.sqlite3
+
+# Кеши Python
+__pycache__/
+
+# Настройки IDE
+.vscode/
+.idea/
+
+# Файлы и папки логов
+*.log
+logs/
+
+# Компилированные файлы Python
+*.pyc
+*.pyo
